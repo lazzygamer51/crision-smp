@@ -1,0 +1,2 @@
+# crision-smp
+op server
